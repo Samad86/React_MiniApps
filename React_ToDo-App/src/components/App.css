@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #000;
+
+  background-color: #dbdbdb;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-todo {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+
+.App-title {
+  font-size: 50px;
+}
