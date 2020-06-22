@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #000;
+
+  background-color: #dbdbdb;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-ul {
+  display: inline-block;
+}
+
+.App-li {
+  display: flex;
+  margin-bottom: 30px;
+
+  align-items: center;
+}
+
+.App-img {
+  margin-left: 20px;
+}
